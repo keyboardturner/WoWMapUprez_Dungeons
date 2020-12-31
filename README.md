@@ -1,4 +1,4 @@
-# WoWMapUprez
+# WoWMapUprez - Dungeons & Raids
 A project to uprez every single low quality map in WoW using SRCNNs. All fully constructed maps will result in 4k resolution.
 
 This project does not include any maps which are already 4k resolution, such as the ones pertaining to Battle for Azeroth and Shadowlands open world.
@@ -56,244 +56,244 @@ If you see any weird glitches, forgotten maps (which are listed below but aren't
 	
  	AhnQiraj
 	BlackFathomDeeps
-  BlackrockDepths
-  BlackrockPetBattle
-  BlackrockScenario
-  BlackrockSpire
-  BlackwingLair
-  DeadminesWestfall
-  DireMaul
-  Gnomeregan
-  GnomereganPetBattle
-  Maraudon
-  MoltenCore
-  PetBattlelStratholme
-  Ragerfire
-  RazorfenDowns
-  RazorfenKraul
-  RuinsofAhnQiraj
-  ScarletHalls
-  ScarletHallsDarkRanger
-  ScarletMonastery
-  ScarletMonestaryDK
-  Scholomance
-  ShadowfangKeep
-  StockadeScenario
-  Stratholme
-  StratholmePaladinClassMount
-  TheDeadmines
-  TheDeadminesPetBattle
-  TheStockade
-  TheTempleofAtalHakkar
-  Uldaman
-  WailingCaverns
-  WailingCavernsPetBattle
-  ZulFarrak
+ 	BlackrockDepths
+  	BlackrockPetBattle
+  	BlackrockScenario
+  	BlackrockSpire
+  	BlackwingLair
+  	DeadminesWestfall
+  	DireMaul
+  	Gnomeregan
+  	GnomereganPetBattle
+  	Maraudon
+  	MoltenCore
+  	PetBattlelStratholme
+  	Ragerfire
+  	RazorfenDowns
+  	RazorfenKraul
+  	RuinsofAhnQiraj
+  	ScarletHalls
+  	ScarletHallsDarkRanger
+  	ScarletMonastery
+  	ScarletMonestaryDK
+  	Scholomance
+  	ShadowfangKeep
+  	StockadeScenario
+  	Stratholme
+  	StratholmePaladinClassMount
+  	TheDeadmines
+  	TheDeadminesPetBattle
+  	TheStockade
+  	TheTempleofAtalHakkar
+  	Uldaman
+  	WailingCaverns
+  	WailingCavernsPetBattle
+  	ZulFarrak
 </details>
 <details>
 	<summary>Burning Crusade Dungeons</summary>
 	
 	AuchenaiCrypts
-  BlackTemple
-  BlackTempleScenario
-  CoilfangReservoir
-  CoTHillsbradFoothills
-  CoTMountHyjal
-  CoTTheBlackMorass
-  GruulsLair
-  HellfireRamparts
-  Karazhan
-  KarazhanScenario
-  MagistersTerrace
-  Magtheridonslair
-  ManaTombs
-  SethekkHalls
-  ShadowLabyrinth
-  SunwellPlateau
-  TempestKeep
-  TheArcatraz
-  TheBloodFurnace
-  TheBotanica
-  TheMechanar
-  TheShatteredHalls
-  TheSlavePens
-  TheSteamvault
-  TheUnderbog
-  TKArcatrazScenario
-  ZulAman
+	BlackTempl
+	BlackTempleScenario
+  	CoilfangReservoir
+  	CoTHillsbradFoothills
+  	CoTMountHyjal
+  	CoTTheBlackMorass
+  	GruulsLair
+  	HellfireRamparts
+  	Karazhan
+  	KarazhanScenario
+  	MagistersTerrace
+  	Magtheridonslair
+  	ManaTombs
+  	SethekkHalls
+  	ShadowLabyrinth
+  	SunwellPlateau
+  	TempestKeep
+  	TheArcatraz
+  	TheBloodFurnace
+  	TheBotanica
+  	TheMechanar
+  	TheShatteredHalls
+  	TheSlavePens
+  	TheSteamvault
+  	TheUnderbog
+  	TKArcatrazScenario
+  	ZulAman
 </details>
 <details>
 	<summary>Wrath of the Lich King Dungeons</summary>
 	
 	AhnKahet
-  AzjolNerub
-  CoTStratholme
-  DrakTharonKeep
-  GunDrak
-  HallsofReflection
-  IcecrownCitadel
-  IcecrownCitadelDeathKnight
-  IcecrownDeathknight
-  Naxxramas
-  OnyxiasLair
-  PitofSaron
-  PitofSaronDK
-  TheArgentColiseum
-  TheEyeOfEternity
-  TheEyeofEternityMageClassMount
-  TheForgeofSouls
-  TheNexus
-  TheNexusLegendary
-  TheObsidianSanctum
-  TheOculus
-  TheRubySanctum
-  TheRubySanctumDKMountScenario
-  Ulduar
-  Ulduar7 (Halls of Stone)
-  Ulduar77 (Halls of Stone again)
-  UlduarMagni
-  UtgardeKeep
-  UtgardePinnacle
-  VaultofArchavon
-  VioletHold
+  	AzjolNerub
+  	CoTStratholme
+  	DrakTharonKeep
+  	GunDrak
+  	HallsofReflection
+  	IcecrownCitadel
+  	IcecrownCitadelDeathKnight
+  	IcecrownDeathknight
+  	Naxxramas
+  	OnyxiasLair
+  	PitofSaron
+  	PitofSaronDK
+  	TheArgentColiseum
+  	TheEyeOfEternity
+  	TheEyeofEternityMageClassMount
+  	TheForgeofSouls
+  	TheNexus
+  	TheNexusLegendary
+  	TheObsidianSanctum
+  	TheOculus
+  	TheRubySanctum
+  	TheRubySanctumDKMountScenario
+  	Ulduar
+  	Ulduar7 (Halls of Stone)
+  	Ulduar77 (Halls of Stone again)
+  	UlduarMagni
+  	UtgardeKeep
+  	UtgardePinnacle
+  	VaultofArchavon
+  	VioletHold
 </details>
 <details>
 	<summary>Cataclysm Dungeons</summary>
 	
 	Baradinhold
-  BlackrockCaverns
-  BlackwingDescent
-  BlackwingDescentScenario
-  DragonSoul
-  EndTime
-  Firelands
-  FirelandsShaman
-  HallsOfOrigination
-  HallsOfOriginationScenario
-  HourofTwilight
-  LostCityofTolvir
-  TheBastionofTwilight
-  TheStoneCore
-  TheVortexPinnacle
-  Throneofthefourwinds
-  ThroneOfTides
-  WellOfEternity
+  	BlackrockCaverns
+  	BlackwingDescent
+  	BlackwingDescentScenario
+  	DragonSoul
+  	EndTime
+  	Firelands
+  	FirelandsShaman
+  	HallsOfOrigination
+  	HallsOfOriginationScenario
+  	HourofTwilight
+  	LostCityofTolvir
+  	TheBastionofTwilight
+  	TheStoneCore
+  	TheVortexPinnacle
+  	Throneofthefourwinds
+  	ThroneOfTides
+  	WellOfEternity
 </details>
 <details>
 	<summary>Mists of Pandaria Dungeons</summary>
 	
 	EastTemple (Temple of the Jade Serpent)
-  HeartOfFear
-  MogushanPalace
-  MogushanPalaceScenario
-  MogushanVaults
-  OrgrimmarRaid
-  OrgrimmarRaidScenario
-  ShadowpanHideout
-  SiegeofNiuzaoTemple
-  StormstoutBrewery
-  StormstoutBreweryScenario
-  TerraceOfEndlessSpring
-  TerraceOfEndlessSpringScenario
-  TheGreatWall (Gate of the Setting Sun)
-  ThunderKingLootRoom
-  ThunderKingRaid
+  	HeartOfFear
+  	MogushanPalace
+  	MogushanPalaceScenario
+  	MogushanVaults
+  	OrgrimmarRaid
+  	OrgrimmarRaidScenario
+  	ShadowpanHideout
+  	SiegeofNiuzaoTemple
+  	StormstoutBrewery
+  	StormstoutBreweryScenario
+  	TerraceOfEndlessSpring
+  	TerraceOfEndlessSpringScenario
+  	TheGreatWall (Gate of the Setting Sun)
+  	ThunderKingLootRoom
+  	ThunderKingRaid
 </details>
 <details>
 	<summary>Warlords of Draenor Dungeons</summary>
 	
 	BlackrockTrainDepotDungeon
-  DraenorAuchindoun
-  FoundryRaid
-  HellfireRaid
-  HighmaulRaid
-  IronDocks
-  OgreMines
-  OvergrownOutpost
-  ShadowmoonDungeon
-  SpiresofArakDungeon
+  	DraenorAuchindoun
+  	FoundryRaid
+  	HellfireRaid
+  	HighmaulRaid
+  	IronDocks
+  	OgreMines
+  	OvergrownOutpost
+  	ShadowmoonDungeon
+  	SpiresofArakDungeon
 </details>
 <details>
 	<summary>Legion Dungeons</summary>
 
 	AraukNashalIntroScenario
-  ArcwayScenario
-  ArgusDungeon
-  ArgusRaid
-  AszunaDungeon
-  AszunaDungeonExterior
-  BlackRookHoldDungeon
-  BlackRookHoldScenario
-  DarkheartThicket
-  GloamingReef
-  Hallsofvalor
-  HallsOfValorWarriorClassMount
-  HelheimDungeonDock
-  HelheimRaid
-  LegionKarazhanDungeon
-  NeltharionsLair
-  NightmareRaid
-  SuramarNoblesDistrict
-  SuramarRaid
-  TheVioletHoldAcquisition
-  TombofSargerasDungeon
-  TombRaid
-  VaultOfTheWardens
-  VaultOfTheWardensDH
+  	ArcwayScenario
+  	ArgusDungeon
+  	ArgusRaid
+  	AszunaDungeon
+  	AszunaDungeonExterior
+  	BlackRookHoldDungeon
+  	BlackRookHoldScenario
+  	DarkheartThicket
+  	GloamingReef
+  	Hallsofvalor
+  	HallsOfValorWarriorClassMount
+  	HelheimDungeonDock
+  	HelheimRaid
+  	LegionKarazhanDungeon
+  	NeltharionsLair
+  	NightmareRaid
+  	SuramarNoblesDistrict
+  	SuramarRaid
+  	TheVioletHoldAcquisition
+  	TombofSargerasDungeon
+  	TombRaid
+  	VaultOfTheWardens
+  	VaultOfTheWardensDH
 </details>
 <details>
 	<summary>Battle for Azeroth Dungeons</summary>
 	
 	CityOfGold
-  CrucibleOfStorms_Bottom
-  EternalPalace_A
-  KezanDungeon
-  KingsRest
-  KulTirasPirateTownDungeon
-  MechagonDungeon
-  MechagonDungeonExterior
-  NazjatarRaidEntrance
-  NZothRaid
-  PrisonDungeon
-  ShrineOfTheStorm
-  SiegeOfBoralus
-  TempleOfSethralissA
-  Uldir
-  UnderrotExterior
-  Waycrest
-  ZuldazarRaid_Jaina
-  ZuldazarRaidA
+  	CrucibleOfStorms_Bottom
+  	EternalPalace_A
+  	KezanDungeon
+  	KingsRest
+  	KulTirasPirateTownDungeon
+  	MechagonDungeon
+  	MechagonDungeonExterior
+  	NazjatarRaidEntrance
+  	NZothRaid
+  	PrisonDungeon
+  	ShrineOfTheStorm
+  	SiegeOfBoralus
+  	TempleOfSethralissA
+  	Uldir
+  	UnderrotExterior
+  	Waycrest
+  	ZuldazarRaid_Jaina
+  	ZuldazarRaidA
 </details>
 <details>
 	<summary>Shadowlands Dungeons</summary>
 	
 	DeOtherSide_Ardenweald
-  HallsOfAtonement_A
-  MistsoFTirneScithe
-  NathriaRaid_A
-  NecroticWake_A
-  Plaguefall
-  Plaguefall_B
-  SanguineDepths_A
-  SanguineDepths_B
-  SpiresOfAscension_A
-  TheaterOfPain
+  	HallsOfAtonement_A
+  	MistsoFTirneScithe
+  	NathriaRaid_A
+  	NecroticWake_A
+  	Plaguefall
+  	Plaguefall_B
+  	SanguineDepths_A
+  	SanguineDepths_B
+  	SpiresOfAscension_A
+  	TheaterOfPain
 </details>
 <details>
 	<summary>Files which have recieved special treatment or custom touchups:</summary>
 	
-  [N/A]
+  	[N/A]
 </details>
 
 <details>
 	<summary>Files which are incomplete:</summary>
 	
-  [N/A]
+  	[N/A]
 </details>
 <details>
 	<summary>Files which require special treatment:</summary>
 	
-  [N/A]
+  	[N/A]
 </details>
 
 # Q&A:
