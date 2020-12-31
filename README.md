@@ -18,7 +18,9 @@ Most of the open world maps are already 4k quality, so this time around I decide
 <!-- BFA → Shadowlands Patch: link -->
 <!-- Only install this if you are updating from patch 8.3.0 to 9.0.n -->
 
-Approximate size of project: 8.7 GB
+Approximate size of this project: 8.7 GB
+
+Approximate size of both projects: 14.3 GB
 
 Download at your own risk.
 
@@ -31,7 +33,7 @@ Download at your own risk.
 
 # Installation:
 
-1. At the project page, click `Clone or download` and select `Download ZIP`. It may take a while to download because it's very big (It's about 1.88GB compressed / download).
+1. At the project page, click `Clone or download` and select `Download ZIP`. It may take a while to download because it's very big (It's about 2.90GB compressed / download).
 2. When the file is finished downloading, find the `_retail_` directory and open it.
 3. When you open the .zip file, it may have `WoWMapUprez-master`. Inside that should have the contents `Interface` and a `README.md`.
 4. Simply drag-drop to merge the `interface` folder in your WoW folder and replace the currently existing one. Below is a gif showing what is done.
@@ -300,7 +302,7 @@ If you see any weird glitches, forgotten maps (which are listed below but aren't
 
 Q: "Where are the raid / dungeon / cave maps?"
 
-> A: They're too numerous at the moment and might come as a future optional "expansion" pack. I didn't want to make the base outdoor zone maps include potentially 5+GB of dungeons and raids. Still planning on how to best release it - it'll likely be linked in this description at a later time. I wanted to get the Classic maps done and ensure the quality of the existing world maps first.
+> ~~A: They're too numerous at the moment and might come as a future optional "expansion" pack. I didn't want to make the base outdoor zone maps include potentially 5+GB of dungeons and raids. Still planning on how to best release it - it'll likely be linked in this description at a later time. I wanted to get the Classic maps done and ensure the quality of the existing world maps first.~~ I've now pushed a public (Dungeon map pack)[https://github.com/keyboardturner/WoWMapUprez_Dungeons]. As it turns out, it was in fact 5+ GB.
 
 Q: "How long did this project take?"
 
